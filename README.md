@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently building things, breaking things, and learning why they broke.<br>👯 I’m looking to collaborate on projects that are slightly ambitious and chaotic.<br>🤝 I’m looking for help with thinking bigger and building smarter systems.<br>🌱 I’m currently learning whatever stressres me out the least.<br>💬 Ask me about building, debugging, or figuring things out the hard way first.<br>⚡ Fun fact: I treat every bug like a mystery novel I refuse to leave unfinished.
+I’m currently building things, breaking things, and learning why they broke.<br>I’m looking to collaborate on projects that are slightly ambitious and chaotic.<br>I’m looking for help with thinking bigger and building smarter systems.<br> I’m currently learning whatever stressres me out the least.<br>💬 Ask me about building, debugging, or figuring things out the hard way first.<br>Fun fact: I treat every bug like a mystery novel I refuse to leave unfinished.
 
 
 ## 🌐 Socials:
